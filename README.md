@@ -1,4 +1,4 @@
-Designed by Jesse Merritt www.github.com/jes1510 October 12, 2014.
+Designed by Jesse Merritt www.github.com/jes1510 September 11, 2015.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
